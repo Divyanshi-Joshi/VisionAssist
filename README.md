@@ -16,7 +16,8 @@ We have created two demonstration videos to showcase the capabilities of the Vis
 
 * **Object Detection Video**: [Watch the object detection video](https://drive.google.com/file/d/1gBo1OX_F9gSkbTYJ7pN5zS9ILeypZUOw/view?usp=sharing) to see the application in action, detecting objects in real-time.
 
-* **App Demo Video**: https://github.com/user-attachments/assets/507f01db-9327-4c29-85e1-d315d576616a
+* **App Demo Video**: [Watch the app demo video](https://drive.google.com/file/d/1gBo1OX_F9gSkbTYJ7pN5zS9ILeypZUOw/view?usp=sharing) to see the application's user interface and features, including object detection, recognition, and measurement.
+
 
 ## Technical Details
 The VisionAssist application is built using the following technologies:
