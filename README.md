@@ -15,7 +15,8 @@ The VisionAssist application offers the following features:
 We have created two demonstration videos to showcase the capabilities of the VisionAssist application:
 
 * **Object Detection Video**: [Watch the object detection video](https://drive.google.com/file/d/1gBo1OX_F9gSkbTYJ7pN5zS9ILeypZUOw/view?usp=sharing) to see the application in action, detecting objects in real-time.
-* **App Demo Video**: [Watch the app demo video](https://drive.google.com/file/d/17eN55BD7b1h_q8WnXoCncmczKYo9A_9L/view?usp=sharing) to see the application's user interface and features, including object detection and recognition.
+
+* **App Demo Video**: https://github.com/user-attachments/assets/507f01db-9327-4c29-85e1-d315d576616a
 
 ## Technical Details
 The VisionAssist application is built using the following technologies:
